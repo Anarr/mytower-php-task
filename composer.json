@@ -1,0 +1,19 @@
+{
+  "name": "anar/mytower",
+  "description": "interview task for php position in Mytower",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "anarrzayev",
+      "email": "anar.rzayev94@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "MyTower\\": "src/"
+    }
+  }
+}
